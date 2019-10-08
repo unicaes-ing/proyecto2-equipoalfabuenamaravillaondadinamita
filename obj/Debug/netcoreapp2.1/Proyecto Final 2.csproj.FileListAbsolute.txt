@@ -1,0 +1,11 @@
+C:\Users\Adonay VM\Desktop\C#\Proyecto Final 2\bin\Debug\netcoreapp2.1\Proyecto Final 2.deps.json
+C:\Users\Adonay VM\Desktop\C#\Proyecto Final 2\bin\Debug\netcoreapp2.1\Proyecto Final 2.runtimeconfig.json
+C:\Users\Adonay VM\Desktop\C#\Proyecto Final 2\bin\Debug\netcoreapp2.1\Proyecto Final 2.runtimeconfig.dev.json
+C:\Users\Adonay VM\Desktop\C#\Proyecto Final 2\bin\Debug\netcoreapp2.1\Proyecto Final 2.dll
+C:\Users\Adonay VM\Desktop\C#\Proyecto Final 2\bin\Debug\netcoreapp2.1\Proyecto Final 2.pdb
+C:\Users\Adonay VM\Desktop\C#\Proyecto Final 2\obj\Debug\netcoreapp2.1\Proyecto Final 2.csprojAssemblyReference.cache
+C:\Users\Adonay VM\Desktop\C#\Proyecto Final 2\obj\Debug\netcoreapp2.1\Proyecto Final 2.csproj.CoreCompileInputs.cache
+C:\Users\Adonay VM\Desktop\C#\Proyecto Final 2\obj\Debug\netcoreapp2.1\Proyecto Final 2.AssemblyInfoInputs.cache
+C:\Users\Adonay VM\Desktop\C#\Proyecto Final 2\obj\Debug\netcoreapp2.1\Proyecto Final 2.AssemblyInfo.cs
+C:\Users\Adonay VM\Desktop\C#\Proyecto Final 2\obj\Debug\netcoreapp2.1\Proyecto Final 2.dll
+C:\Users\Adonay VM\Desktop\C#\Proyecto Final 2\obj\Debug\netcoreapp2.1\Proyecto Final 2.pdb
